@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159275925492",
+    "project_id": "votingapp-e9dd2",
+    "storage_bucket": "votingapp-e9dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159275925492:android:5887416d438181f6d6c3a1",
+        "android_client_info": {
+          "package_name": "com.vikrant.app_voting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3OFwFPWlr3EOWRHee_tGHTIBpsKdQiHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
